@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahreebiuv.kevinpeat.com/sitemap.xml
